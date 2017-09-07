@@ -6,7 +6,7 @@ A python script to send files to iOS's VLC web interface.
 - First of all, install python 3 for your distribution.
 - After installing python 3, install python pip.
 - Then use python pip to install requests_toolbelt module:
-`python3 -m pip install requests_toolbelt`
+`python3 -m pip install requests_toolbelt --user`
 - Only after this you will be able to start using the script.
 - If you want help about the parameters you need to pass to it, just type:
 `python3 uploadToIpad.py` on command line and the script will show you
